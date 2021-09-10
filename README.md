@@ -1,10 +1,10 @@
-# flutter-TDD decipline
+# flutter TDD dicipline
 ![architecture-proposal](https://user-images.githubusercontent.com/89376296/132801668-1a24c1ed-cbc2-4cfe-b642-ecf9343f116a.png)
 
-The prerequisite of developing new version of Hamvarzeshi application is learning TDD decipline's concepts as well as developing a prototype by applying this decipline.
+The prerequisite of developing a new version of the Hamvarzeshi application is learning the TDD discipline's concepts as well as developing a prototype by applying this discipline.
 
-## Why TDD decipline?<br>
-To understand why TDD is being used, consider this example of how much time and energy is spent on debugging during the day. Using tdd, which is a kind of decipline, this time is greatly reduced.Tests are being used in this decipline, the reason why we do not sort the messy code is that we are afraid to wreck it, but with using the tests, we find out that there are not any problems with our code, and in case of damage and viewing the messy code, we can fix the code immediately and easily make any desired changes.
+## Why TDD discipline?<br>
+To understand why TDD is being used, consider this example of how much time and energy is spent on debugging during the day. Using TDD, which is a kind of discipline, this time is greatly reduced. Tests are being used in this discipline, the reason why we do not sort the messy code is that we are afraid to wreck it, but with using the tests, we find out that there are not any problems with our code, and in case of damage and viewing the messy code, we can fix the code immediately and easily make any desired changes.
 
 ## concepts being used:
 1.Entities<br>
