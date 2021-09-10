@@ -1,4 +1,4 @@
-# flutter TDD dicipline
+# flutter TDD discipline
 ![architecture-proposal](https://user-images.githubusercontent.com/89376296/132801668-1a24c1ed-cbc2-4cfe-b642-ecf9343f116a.png)
 
 The prerequisite of developing a new version of the Hamvarzeshi application is learning the TDD discipline's concepts as well as developing a prototype by applying this discipline.
