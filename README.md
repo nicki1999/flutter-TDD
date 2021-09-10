@@ -6,7 +6,7 @@ The prerequisite of developing Hamvarzeshi application is learning TDD decipline
 Why TDD decipline?
 To understand why TDD is being used, consider this example of how much time and energy is spent on debugging during the day. Using tdd, which is a kind of decipline, this time is greatly reduced.Tests are being used in this decipline, the reason why we do not sort the messy code is that we are afraid to wreck it, but with using the tests, we find out that there are not any problems with our code, and in case of damage and viewing the messy code, we can fix the code immediately and easily make any desired changes.
 The concepts being used:
-1.Entities
+1.Entities<br>
 2.Usecases
 3.Interface adapters
 4.MVC structure
